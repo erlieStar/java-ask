@@ -8,21 +8,9 @@
 [1. 面试官：说一下八种基本数据类型及其包装类吧](./面试官：说一下八种基本数据类型及其包装类吧.md) 
 
                                                 
-[2. 面试官：说一下String StringBuffer StringBuilder的区别](./面试官：说一下String StringBuffer StringBuilder的区别.md) 
+[2. 面试官：说一下String StringBuffer StringBuilder的区别](./面试官：说一下String&#32;StringBuffer&#32;StringBuilder的区别.md) 
 
 ## 💾  数据存储、缓存和搜索
-
-
-|                           Project                            | Version | Article                                                      |
-| :----------------------------------------------------------: | :-----: | :----------------------------------------------------------- |
-| ![](https://icongr.am/devicon//mysql-original.svg?size=20) **MySQL** | 5.7.25  | [1、MySQL架构概述](docs/data-store/MySQL/MySQL-Framework.md)<br/>[2、MySQL存储引擎](docs/data-store/MySQL/MySQL-Storage-Engines.md)<br/>[3、索引](docs/data-store/MySQL/MySQL-Index.md)<br/>[4、事务](docs/data-store/MySQL/MySQL-Transaction.md)<br/>5、表设计<br/>[6、性能优化](docs/data-store/MySQL/MySQL-Optimization.md)<br/>7、锁机制<br/>8、分区分表分库<br/>9 、主从复制<br/> |
-| ![](https://icongr.am/devicon//redis-original.svg?size=20)   **Redis** |  5.0.6  | [1、NoSQL概述](docs/data-store/Redis/1.Nosql-Overview.md)<br/>[2、Redis概述](docs/data-store/Redis/2.readRedis.md)<br/>[3、Redis数据类型](docs/data-store/Redis/3.Redis-Datatype.md)<br/>[4、Redis配置](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、深入理解 Redis 的持久化](docs/data-store/Redis/5.Redis-Persistence.md)<br/> |
-|                      **Elasticsearch**                       |         |                                                              |
-|                        **Amazon S3**                         |         |                                                              |
-|                           MongoDB                            |         |                                                              |
-|                           FastDFS                            |         |                                                              |
-
-
 
 ##  🖥️ 服务器
 
