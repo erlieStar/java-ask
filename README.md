@@ -8,17 +8,14 @@
 [1. 面试官：说一下八种基本数据类型及其包装类吧](./面试官：说一下八种基本数据类型及其包装类吧.md) 
 
                                                 
-[2. 面试官：说一下String StringBuffer StringBuilder的区别](./面试官：说一下String&#32;StringBuffer&#32;StringBuilder的区别.md) 
+[2. 面试官：说一下String StringBuffer StringBuilder的区别](./面试官：说一下String&#32;StringBuffer&#32;StringBuilder的区别.md)
+
+
+[3. 面试官：同样是等待，说一下sleep和wait的区别](./面试官：同样是等待，说一下sleep和wait的区别.md)
 
 ## 💾  数据存储、缓存和搜索
 
 ##  🖥️ 服务器
-
-|  Project  |       Version       | Article                                                      |
-| :-------: | :-----------------: | :----------------------------------------------------------- |
-| **Linux** | CentOS release 6.10 | [Linux通关攻略]( <https://github.com/Jstarfish/JavaEgg/blob/master/docs/linux/linux.md>) |
-| **Nginx** |       1.16.1        | [Nginx通关攻略](https://mp.weixin.qq.com/s/jA-6tDcrNgd-Wtncj6D6DQ) |
-
 
 
 ## 🌱 Spring全家福和微服务
@@ -31,91 +28,41 @@
 ##  ✉️ Message Queue
 
 
-## :dog: RPC Learning
-
-
-| Project | Version | Article                                                      |
-| :-----: | :-----: | :----------------------------------------------------------- |
-|   RPC   |  gRPC   | [1 —— Hello protocol-buffers](/docs/rpc/Hello-Protocol-Buffers.md)<br> |
-
-
-
 ## ⚒️ 基础工具
-
-| Project | Article                                                      |
-| :-----: | :----------------------------------------------------------- |
-|  Maven  | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
-|   Git   | [github 竟然有这些骚操作，真是涨姿势](/docs/tools/github.md) |
-|  IDEA   | [IDEA总结——磨刀霍霍向代码](/docs/tools/IDEA.md)              |
-| Jenkins |                                                              |
-
 
 
 ## 🎨 设计模式
-
-|       Project        | Article                                                      |
-| :------------------: | :----------------------------------------------------------- |
-| GoF 的 23 种设计模式 | [设计模式前传——要学设计模式你要先知道这些](/docs/design-pattern/Design-Pattern-Overview.md) <br/>[单例模式——我只有一个对象](/docs/design-pattern/Singleton-Pattern.md)<br/>[工厂模式——我有好多对象](/docs/design-pattern/Factory-Pattern.md)<br/>[观察者模式——暗中观察](/docs/design-pattern/Observer-Pattern.md)<br />[装饰者模式——拒绝继承滥用](/docs/design-pattern/Decorator-Pattern.md)<br />[责任链模式——更灵活的 if else](/docs/design-pattern/Chain-of-Responsibility-Pattern)<br>[代理模式——面试官问我Spring AOP中两种代理的区别](https://mp.weixin.qq.com/s/U7eR5Mpu4VBbtPP1livLnA)<br/>[原型模式——浅拷贝和深拷贝](http://mp.weixin.qq.com/s?__biz=MzIyNDI3MjY0NQ==&mid=2247485400&idx=1&sn=b83ef5d8d81e54bc46207bf540fc9cf9&chksm=e810cfb2df6746a41e10904fe43611e1385d406a95f680472e72620b91973f8724af9a4d8c37&token=1569764147&lang=zh_CN#rd)<br/> |
 
 
 
 ## 🌍 SOA 架构
 
-|  Project  | Version | Article                                                      |
-| :-------: | :-----: | :----------------------------------------------------------- |
-| Zookeeper |  3.5.6  | [从Paxos到ZooKeeper——Hello ZK](/docs/soa/zookeeper/Hello-Zookeeper.md)<br/>[ZooKeeper实战——Curator](/docs/soa/zookeeper/Zookeeper实战与源码.md)<br/> |
-
-
 
 ## 👨🏿‍💻 Big Data
-
-| Project  | Version | Article                                           |
-| :------: | :-----: | :------------------------------------------------ |
-| Big Data |         | [Hello Big Data](/docs/big-data/Hello-BigData.md) |
-
 
 
 ## 🔢 算法 - Algorithms
 
-| Project  | Article                                                      |
-| :------: | :----------------------------------------------------------- |
-| LeetCode | [时间复杂度详解](/docs/leetcode/complexity.md)<br/>[两数之和](/docs/leetcode/两数之和.md) |
 
 
 
 ## 📖 **数据结构 - Data Structures**
 
-|  Project   | Article |
-| :--------: | :------ |
-| 数组与链表 |         |
-|  栈与队列  |         |
-|   树与图   |         |
-|   哈希表   |         |
-|     堆     |         |
-|   字符串   |         |
-
-
 
 ##  🏆  直击面试
 
-| Project | Article                                                      |
-| :-----: | :----------------------------------------------------------- |
-| Spring  | 「 直击面试」—— Spring高频面试题                             |
-|  网络   | [「 直击面试」—— 搞定计算机网络](/docs/network/Network-FAQ.md) |
-|  基础   | [「 直击面试」—— 搞定 Java 集合](/docs/java/Collections/Collections-FAQ.md) |
-|  MySQL  | [「 直击面试」—— MySQL三文字总结+面试100问](https://mp.weixin.qq.com/s/MCFHNOQnTtJ6MGVjM3DP4A) |
+<h3 align="center">是时间</h3>
+
+------
+
+## 联系作者
+
+有些图片在github上显示较慢，欢迎加小识微信获取pdf版本
+
+1. 获取pdf版本
+2. 联系作者
+3. 和群里小伙伴交流面试经验
+4. 获取内推机会
 
 
-
-## ❗️ 勘误
-
-+ 文章只是记录自己的学习，如果在文章中发现错误或者侵权问题，欢迎指出，谢谢
-
-
-## ©️ 转载
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Jstarfish/Technical-Learning" property="cc:attributionName" rel="cc:attributionURL">STARFISH</a> 创作，遵循<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0 BY-SA </a>版权协议。
-
-
-
-## 公众号
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201126184502957.jpeg)
